@@ -7,6 +7,11 @@ https://buyable.netlify.app/
 
 <br>
 
+## Buyable Server: 
+https://github.com/Duartefranca/Server-Buyable
+
+<br>
+
 ## Description
 
 This is a app to sell or trade products. This products can be new or used.

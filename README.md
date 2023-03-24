@@ -1,8 +1,5 @@
 # Buyable-Client
 
-
-# Buyable
-
 <br>
 
 ## DEPLOYED LINK: 
